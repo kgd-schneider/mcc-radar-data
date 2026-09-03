@@ -1,0 +1,723 @@
+[
+  {
+    "id": 1,
+    "bank_id": 1,
+    "name": "Автоуслуги",
+    "description": "Покупка автозапчастей. Оплата в автосервисах, на СТО и автомойках",
+    "is_default": false
+  },
+  {
+    "id": 2,
+    "bank_id": 1,
+    "name": "Заправки",
+    "description": "Оплата на заправочных и зарядных станциях",
+    "is_default": false
+  },
+  {
+    "id": 3,
+    "bank_id": 1,
+    "name": "Платные дороги",
+    "description": "Плата за проезд по платным дорогам, трассам и мостам",
+    "is_default": false
+  },
+  {
+    "id": 4,
+    "bank_id": 1,
+    "name": "Животные",
+    "description": "Оплата в зоомагазинах и ветклиниках",
+    "is_default": false
+  },
+  {
+    "id": 5,
+    "bank_id": 1,
+    "name": "Ремонт и мебель",
+    "description": "Оплата в магазинах для отделки и обустройства дома, а также в мебельных салонах",
+    "is_default": false
+  },
+  {
+    "id": 6,
+    "bank_id": 1,
+    "name": "Кино",
+    "description": "Оплата товаров и услуг кинотеатров",
+    "is_default": false
+  },
+  {
+    "id": 7,
+    "bank_id": 1,
+    "name": "Онлайн-кинотеатры",
+    "description": "Оплата подписок на Netflix, IVI, Okko.tv, MEGOGO, Кинопоиск, Amazon Prime Video, more.tv",
+    "is_default": false
+  },
+  {
+    "id": 8,
+    "bank_id": 1,
+    "name": "Развлечения",
+    "description": "Оплата в боулингах, парках аттракционов, цирках и других местах для досуга",
+    "is_default": false
+  },
+  {
+    "id": 9,
+    "bank_id": 1,
+    "name": "Цифровые товары",
+    "description": "Покупка аудиовизуальных медиа, игр и других приложений, и подписок",
+    "is_default": false
+  },
+  {
+    "id": 10,
+    "bank_id": 1,
+    "name": "Косметика",
+    "description": "Оплата в профильных магазинах косметики, парфюмерии и средств по уходу за собой",
+    "is_default": false
+  },
+  {
+    "id": 11,
+    "bank_id": 1,
+    "name": "Красота",
+    "description": "Оплата в магазинах косметики и парфюмерии, в косметических и SPA-салонах",
+    "is_default": false
+  },
+  {
+    "id": 12,
+    "bank_id": 1,
+    "name": "Аптеки",
+    "description": "Оплата в аптеках и магазинах медикаментов",
+    "is_default": false
+  },
+  {
+    "id": 13,
+    "bank_id": 1,
+    "name": "Рестораны",
+    "description": "Оплата в ресторанах, кафе, барах — не включая рестораны быстрого обслуживания",
+    "is_default": false
+  },
+  {
+    "id": 14,
+    "bank_id": 1,
+    "name": "Супермаркеты",
+    "description": "Оплата в супермаркетах и продуктовых магазинах",
+    "is_default": false
+  },
+  {
+    "id": 15,
+    "bank_id": 1,
+    "name": "Фастфуд",
+    "description": "Оплата в ресторанах быстрого питания",
+    "is_default": false
+  },
+  {
+    "id": 16,
+    "bank_id": 1,
+    "name": "Искусство",
+    "description": "Покупка предметов искусства, билетов в театры и на выставки",
+    "is_default": false
+  },
+  {
+    "id": 17,
+    "bank_id": 1,
+    "name": "Музыка",
+    "description": "Оплата в магазинах музыкальных инструментов",
+    "is_default": false
+  },
+  {
+    "id": 18,
+    "bank_id": 1,
+    "name": "Образование",
+    "description": "Оплата в школах, вузах и училищах, а также оплата за профильное обучение: бизнесу, искусствам, спорту, вождению",
+    "is_default": false
+  },
+  {
+    "id": 19,
+    "bank_id": 1,
+    "name": "Книги и канцтовары",
+    "description": "Оплата в книжных, газетных киосках и магазинах канцелярии",
+    "is_default": false
+  },
+  {
+    "id": 20,
+    "bank_id": 1,
+    "name": "Авиабилеты",
+    "description": "Оплата авиабилетов в онлайн-сервисах, офисах авиакомпаний, кассах аэропортов",
+    "is_default": false
+  },
+  {
+    "id": 21,
+    "bank_id": 1,
+    "name": "Ж/д билеты",
+    "description": "Оплата билетов на поезда и электрички в кассах, онлайн-сервисах и терминалах",
+    "is_default": false
+  },
+  {
+    "id": 22,
+    "bank_id": 1,
+    "name": "Duty Free",
+    "description": "Оплата в магазинах беспошлинной торговли",
+    "is_default": false
+  },
+  {
+    "id": 23,
+    "bank_id": 1,
+    "name": "Спорттовары",
+    "description": "Оплата в спортивных магазинах",
+    "is_default": false
+  },
+  {
+    "id": 24,
+    "bank_id": 1,
+    "name": "Тренировки",
+    "description": "Оплата в спортивных, загородных и фитнес-клубах",
+    "is_default": false
+  },
+  {
+    "id": 25,
+    "bank_id": 1,
+    "name": "Каршеринг",
+    "description": "Аренда авто в сервисах каршеринга и дилерских центрах",
+    "is_default": false
+  },
+  {
+    "id": 26,
+    "bank_id": 1,
+    "name": "Местный транспорт",
+    "description": "Оплата проезда в метро, наземном общественном транспорте и в разделе «Транспорт» Т-Банка",
+    "is_default": false
+  },
+  {
+    "id": 27,
+    "bank_id": 1,
+    "name": "Самокаты",
+    "description": "Оплата аренды самокатов и велосипедов",
+    "is_default": false
+  },
+  {
+    "id": 28,
+    "bank_id": 1,
+    "name": "Такси",
+    "description": "Оплата водителям и онлайн-службам такси, не включая каршеринг",
+    "is_default": false
+  },
+  {
+    "id": 29,
+    "bank_id": 1,
+    "name": "Гаджеты и техника",
+    "description": "Оплата покупок и услуг по установке в магазинах бытовой техники и электроники",
+    "is_default": false
+  },
+  {
+    "id": 30,
+    "bank_id": 1,
+    "name": "Детские товары",
+    "description": "Оплата игрушек и одежды в детских магазинах, отделах товаров для детей и магазинах игрушек",
+    "is_default": false
+  },
+  {
+    "id": 31,
+    "bank_id": 1,
+    "name": "Маркетплейсы",
+    "description": "Оплата товаров и услуг на онлайн-площадках",
+    "is_default": false
+  },
+  {
+    "id": 32,
+    "bank_id": 1,
+    "name": "Одежда и обувь",
+    "description": "Оплата в магазинах одежды, обуви и аксессуаров",
+    "is_default": false
+  },
+  {
+    "id": 33,
+    "bank_id": 1,
+    "name": "Подарки и творчество",
+    "description": "Оплата в сувенирных и ремесленных лавках, магазинах для рукоделия",
+    "is_default": false
+  },
+  {
+    "id": 34,
+    "bank_id": 1,
+    "name": "Цветы",
+    "description": "Оплата в цветочных магазинах, салонах флористики и профильных магазинах для садоводов",
+    "is_default": false
+  },
+  {
+    "id": 35,
+    "bank_id": 1,
+    "name": "Все покупки",
+    "description": "Базовый кэшбек, действующий на все покупки вне зависимости от MCC",
+    "is_default": true
+  },
+  {
+    "id": 36,
+    "bank_id": 2,
+    "name": "Супермаркеты",
+    "description": "Оплата товаров в универмагах, супермаркетах и продуктовых магазинах",
+    "is_default": false
+  },
+  {
+    "id": 37,
+    "bank_id": 2,
+    "name": "АЗС",
+    "description": "Оплата бензина и другого топлива на АЗС, а также покупки в автомастерских, магазинах запчастей и кафе при заправках",
+    "is_default": false
+  },
+  {
+    "id": 38,
+    "bank_id": 2,
+    "name": "Автозапчасти",
+    "description": "Оплата автозапчастей, шин, дисков и других автотоваров",
+    "is_default": false
+  },
+  {
+    "id": 39,
+    "bank_id": 2,
+    "name": "Автоуслуги",
+    "description": "Оплата услуг автосервисов, шиномонтажа, эвакуации, платных дорог, парковок, а также покупки авто и мототранспорта",
+    "is_default": false
+  },
+  {
+    "id": 40,
+    "bank_id": 2,
+    "name": "Штрафы ГИБДД",
+    "description": "Оплата штрафов ГИБДД, включая оплату штрафов ГИБДД в Сбербанк Онлайн",
+    "is_default": false
+  },
+  {
+    "id": 41,
+    "bank_id": 2,
+    "name": "Кафе и рестораны",
+    "description": "Оплата в кафе, ресторанах и барах",
+    "is_default": false
+  },
+  {
+    "id": 42,
+    "bank_id": 2,
+    "name": "Одежда и обувь",
+    "description": "Покупки в магазинах мужской и женской одежды, обуви, аксессуаров и украшений, салонах химчистки и прачечных",
+    "is_default": false
+  },
+  {
+    "id": 43,
+    "bank_id": 2,
+    "name": "Товары для дома",
+    "description": "Покупка мебели, стройматериалов, садовых принадлежностей и товаров для дома",
+    "is_default": false
+  },
+  {
+    "id": 44,
+    "bank_id": 2,
+    "name": "Товары для детей",
+    "description": "Оплата в магазинах детской одежды и игрушек",
+    "is_default": false
+  },
+  {
+    "id": 45,
+    "bank_id": 2,
+    "name": "Питомцы",
+    "description": "Покупки в зоомагазинах и ветеринарных клиниках",
+    "is_default": false
+  },
+  {
+    "id": 46,
+    "bank_id": 2,
+    "name": "Такси и каршеринг",
+    "description": "Оплата услуг такси и аренды автомобилей",
+    "is_default": false
+  },
+  {
+    "id": 47,
+    "bank_id": 2,
+    "name": "Такси",
+    "description": "Оплата услуг такси",
+    "is_default": false
+  },
+  {
+    "id": 48,
+    "bank_id": 2,
+    "name": "Аренда авто",
+    "description": "Оплата аренды автомобилей",
+    "is_default": false
+  },
+  {
+    "id": 49,
+    "bank_id": 2,
+    "name": "Кино и театр",
+    "description": "Покупка билетов в кинотеатры и театры",
+    "is_default": false
+  },
+  {
+    "id": 50,
+    "bank_id": 2,
+    "name": "Парфюмерия и косметика",
+    "description": "Покупка косметики и парфюмерии",
+    "is_default": false
+  },
+  {
+    "id": 51,
+    "bank_id": 2,
+    "name": "Ювелирные изделия",
+    "description": "Покупки в ювелирных магазинах",
+    "is_default": false
+  },
+  {
+    "id": 52,
+    "bank_id": 2,
+    "name": "Цифровые товары",
+    "description": "Оплата подписок на онлайн-сервисы",
+    "is_default": false
+  },
+  {
+    "id": 53,
+    "bank_id": 2,
+    "name": "Цветы",
+    "description": "Покупки в цветочных магазинах, салонах флористики и магазинах для садоводов",
+    "is_default": false
+  },
+  {
+    "id": 54,
+    "bank_id": 2,
+    "name": "Книги",
+    "description": "Покупки в книжных и канцелярских магазинах, киосках с прессой",
+    "is_default": false
+  },
+  {
+    "id": 55,
+    "bank_id": 2,
+    "name": "Образование",
+    "description": "Оплата образовательных услуг в детских садах, школах, колледжах, университетах, автошколах и репетиторских центрах",
+    "is_default": false
+  },
+  {
+    "id": 56,
+    "bank_id": 2,
+    "name": "Хобби и развлечения",
+    "description": "Оплата товаров и услуг в книжных, спортивных и музыкальных магазинах, а также посещение культурных и развлекательных заведений",
+    "is_default": false
+  },
+  {
+    "id": 57,
+    "bank_id": 2,
+    "name": "Салоны красоты",
+    "description": "Оплата услуг парикмахерских, салонов красоты, спа-салонов и других услуг по уходу за внешностью",
+    "is_default": false
+  },
+  {
+    "id": 58,
+    "bank_id": 2,
+    "name": "Транспорт",
+    "description": "Оплата проезда на общественном транспорте и междугородних автобусах",
+    "is_default": false
+  },
+  {
+    "id": 59,
+    "bank_id": 2,
+    "name": "Электроника и бытовая техника",
+    "description": "Оплата в магазинах бытовой техники и электроники",
+    "is_default": false
+  },
+  {
+    "id": 60,
+    "bank_id": 2,
+    "name": "Медицинские услуги",
+    "description": "Оплата медицинских услуг, включая стоматологии, больницы, поликлиники, а также покупка медицинского оборудования и ортопедических товаров",
+    "is_default": false
+  },
+  {
+    "id": 61,
+    "bank_id": 2,
+    "name": "Спорт и фитнес",
+    "description": "Покупки в магазинах спортивной одежды и экипировки, велосипедов, оплата фитнес-центров и членства в спортивных клубах",
+    "is_default": false
+  },
+  {
+    "id": 62,
+    "bank_id": 2,
+    "name": "Фитнес",
+    "description": "Оплата фитнес-центров и членства в спортивных клубах",
+    "is_default": false
+  },
+  {
+    "id": 63,
+    "bank_id": 2,
+    "name": "Спортивные товары",
+    "description": "Покупки в магазинах спортивной одежды и экипировки, велосипедов",
+    "is_default": false
+  },
+  {
+    "id": 64,
+    "bank_id": 2,
+    "name": "Аптеки",
+    "description": "Покупки в аптеках",
+    "is_default": false
+  },
+  {
+    "id": 65,
+    "bank_id": 2,
+    "name": "Впечатления",
+    "description": "Покупка билетов на концерты, в парки аттракционов и другие развлекательные мероприятия. Посещение бильярдных и других развлекательных клубов",
+    "is_default": false
+  },
+  {
+    "id": 66,
+    "bank_id": 2,
+    "name": "Фастфуд",
+    "description": "Оплата в предприятиях быстрого питания",
+    "is_default": false
+  },
+  {
+    "id": 67,
+    "bank_id": 2,
+    "name": "Рестораны",
+    "description": "Оплата в ресторанах",
+    "is_default": false
+  },
+  {
+    "id": 68,
+    "bank_id": 2,
+    "name": "За оплату ЖКХ",
+    "description": "Оплата услуг ЖКХ, включая оплату ЖКХ в Сбербанк Онлайн",
+    "is_default": false
+  },
+  {
+    "id": 69,
+    "bank_id": 2,
+    "name": "Связь, Интернет и ТВ",
+    "description": "Оплата услуг проводной и мобильной связи, интернета, кабельного и спутникового телевидения",
+    "is_default": false
+  },
+  {
+    "id": 70,
+    "bank_id": 2,
+    "name": "На все покупки",
+    "description": "Базовый кэшбек, действующий на все покупки вне зависимости от MCC",
+    "is_default": true
+  },
+  {
+    "id": 71,
+    "bank_id": 3,
+    "name": "Образование",
+    "description": "",
+    "is_default": false
+  },
+  {
+    "id": 72,
+    "bank_id": 3,
+    "name": "Авиабилеты",
+    "description": "",
+    "is_default": false
+  },
+  {
+    "id": 73,
+    "bank_id": 3,
+    "name": "ЖД билеты",
+    "description": "",
+    "is_default": false
+  },
+  {
+    "id": 74,
+    "bank_id": 3,
+    "name": "Отели",
+    "description": "",
+    "is_default": false
+  },
+  {
+    "id": 75,
+    "bank_id": 3,
+    "name": "Транспорт",
+    "description": "",
+    "is_default": false
+  },
+  {
+    "id": 76,
+    "bank_id": 3,
+    "name": "Такси",
+    "description": "",
+    "is_default": false
+  },
+  {
+    "id": 77,
+    "bank_id": 3,
+    "name": "Каршеринг",
+    "description": "",
+    "is_default": false
+  },
+  {
+    "id": 78,
+    "bank_id": 3,
+    "name": "Автоуслуги",
+    "description": "",
+    "is_default": false
+  },
+  {
+    "id": 79,
+    "bank_id": 3,
+    "name": "Топливо и АЗС",
+    "description": "",
+    "is_default": false
+  },
+  {
+    "id": 80,
+    "bank_id": 3,
+    "name": "Аптеки",
+    "description": "",
+    "is_default": false
+  },
+  {
+    "id": 81,
+    "bank_id": 3,
+    "name": "Салоны красоты и SPA",
+    "description": "",
+    "is_default": false
+  },
+  {
+    "id": 82,
+    "bank_id": 3,
+    "name": "Косметика",
+    "description": "",
+    "is_default": false
+  },
+  {
+    "id": 83,
+    "bank_id": 3,
+    "name": "Дом, ремонт",
+    "description": "",
+    "is_default": false
+  },
+  {
+    "id": 84,
+    "bank_id": 3,
+    "name": "Искусство",
+    "description": "",
+    "is_default": false
+  },
+  {
+    "id": 85,
+    "bank_id": 3,
+    "name": "Развлечения",
+    "description": "",
+    "is_default": false
+  },
+  {
+    "id": 86,
+    "bank_id": 3,
+    "name": "Выставки и музеи",
+    "description": "",
+    "is_default": false
+  },
+  {
+    "id": 87,
+    "bank_id": 3,
+    "name": "Фитнес",
+    "description": "",
+    "is_default": false
+  },
+  {
+    "id": 88,
+    "bank_id": 3,
+    "name": "Медицинские клиники",
+    "description": "",
+    "is_default": false
+  },
+  {
+    "id": 89,
+    "bank_id": 3,
+    "name": "Музыкальные инструменты",
+    "description": "",
+    "is_default": false
+  },
+  {
+    "id": 90,
+    "bank_id": 3,
+    "name": "Супермаркеты",
+    "description": "",
+    "is_default": false
+  },
+  {
+    "id": 91,
+    "bank_id": 3,
+    "name": "Электроника и бытовая техника",
+    "description": "",
+    "is_default": false
+  },
+  {
+    "id": 92,
+    "bank_id": 3,
+    "name": "Рестораны",
+    "description": "",
+    "is_default": false
+  },
+  {
+    "id": 93,
+    "bank_id": 3,
+    "name": "Фастфуд",
+    "description": "",
+    "is_default": false
+  },
+  {
+    "id": 94,
+    "bank_id": 3,
+    "name": "Химчистки",
+    "description": "",
+    "is_default": false
+  },
+  {
+    "id": 95,
+    "bank_id": 3,
+    "name": "Фото/Видео",
+    "description": "",
+    "is_default": false
+  },
+  {
+    "id": 96,
+    "bank_id": 3,
+    "name": "Цветы",
+    "description": "",
+    "is_default": false
+  },
+  {
+    "id": 97,
+    "bank_id": 3,
+    "name": "Спорттовары",
+    "description": "",
+    "is_default": false
+  },
+  {
+    "id": 98,
+    "bank_id": 3,
+    "name": "Одежда, обувь",
+    "description": "",
+    "is_default": false
+  },
+  {
+    "id": 99,
+    "bank_id": 3,
+    "name": "Книги",
+    "description": "",
+    "is_default": false
+  },
+  {
+    "id": 100,
+    "bank_id": 3,
+    "name": "Товары для детей",
+    "description": "",
+    "is_default": false
+  },
+  {
+    "id": 101,
+    "bank_id": 3,
+    "name": "Ювелирные изделия",
+    "description": "",
+    "is_default": false
+  },
+  {
+    "id": 102,
+    "bank_id": 3,
+    "name": "Вет клиники и зоомагазины",
+    "description": "",
+    "is_default": false
+  },
+  {
+    "id": 103,
+    "bank_id": 3,
+    "name": "На все покупки",
+    "description": "Базовый кэшбек, действующий на все покупки вне зависимости от MCC",
+    "is_default": true
+  }
+]

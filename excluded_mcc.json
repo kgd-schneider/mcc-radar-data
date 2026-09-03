@@ -1,0 +1,1312 @@
+[
+  {
+    "id": 1,
+    "bank_id": 1,
+    "mcc_code": "0015"
+  },
+  {
+    "id": 2,
+    "bank_id": 1,
+    "mcc_code": "0020"
+  },
+  {
+    "id": 3,
+    "bank_id": 1,
+    "mcc_code": "4722"
+  },
+  {
+    "id": 4,
+    "bank_id": 1,
+    "mcc_code": "4812"
+  },
+  {
+    "id": 5,
+    "bank_id": 1,
+    "mcc_code": "4813"
+  },
+  {
+    "id": 6,
+    "bank_id": 1,
+    "mcc_code": "4814"
+  },
+  {
+    "id": 7,
+    "bank_id": 1,
+    "mcc_code": "4816"
+  },
+  {
+    "id": 8,
+    "bank_id": 1,
+    "mcc_code": "4829"
+  },
+  {
+    "id": 9,
+    "bank_id": 1,
+    "mcc_code": "4900"
+  },
+  {
+    "id": 10,
+    "bank_id": 1,
+    "mcc_code": "5199"
+  },
+  {
+    "id": 11,
+    "bank_id": 1,
+    "mcc_code": "5416"
+  },
+  {
+    "id": 12,
+    "bank_id": 1,
+    "mcc_code": "5417"
+  },
+  {
+    "id": 13,
+    "bank_id": 1,
+    "mcc_code": "5511"
+  },
+  {
+    "id": 14,
+    "bank_id": 1,
+    "mcc_code": "5960"
+  },
+  {
+    "id": 15,
+    "bank_id": 1,
+    "mcc_code": "6009"
+  },
+  {
+    "id": 16,
+    "bank_id": 1,
+    "mcc_code": "6012"
+  },
+  {
+    "id": 17,
+    "bank_id": 1,
+    "mcc_code": "6050"
+  },
+  {
+    "id": 18,
+    "bank_id": 1,
+    "mcc_code": "6051"
+  },
+  {
+    "id": 19,
+    "bank_id": 1,
+    "mcc_code": "6211"
+  },
+  {
+    "id": 20,
+    "bank_id": 1,
+    "mcc_code": "6300"
+  },
+  {
+    "id": 21,
+    "bank_id": 1,
+    "mcc_code": "6381"
+  },
+  {
+    "id": 22,
+    "bank_id": 1,
+    "mcc_code": "6399"
+  },
+  {
+    "id": 23,
+    "bank_id": 1,
+    "mcc_code": "6513"
+  },
+  {
+    "id": 24,
+    "bank_id": 1,
+    "mcc_code": "6529"
+  },
+  {
+    "id": 25,
+    "bank_id": 1,
+    "mcc_code": "6530"
+  },
+  {
+    "id": 26,
+    "bank_id": 1,
+    "mcc_code": "6531"
+  },
+  {
+    "id": 27,
+    "bank_id": 1,
+    "mcc_code": "6532"
+  },
+  {
+    "id": 28,
+    "bank_id": 1,
+    "mcc_code": "6533"
+  },
+  {
+    "id": 29,
+    "bank_id": 1,
+    "mcc_code": "6534"
+  },
+  {
+    "id": 30,
+    "bank_id": 1,
+    "mcc_code": "6535"
+  },
+  {
+    "id": 31,
+    "bank_id": 1,
+    "mcc_code": "6536"
+  },
+  {
+    "id": 32,
+    "bank_id": 1,
+    "mcc_code": "6537"
+  },
+  {
+    "id": 33,
+    "bank_id": 1,
+    "mcc_code": "6538"
+  },
+  {
+    "id": 34,
+    "bank_id": 1,
+    "mcc_code": "6540"
+  },
+  {
+    "id": 35,
+    "bank_id": 1,
+    "mcc_code": "6611"
+  },
+  {
+    "id": 36,
+    "bank_id": 1,
+    "mcc_code": "6760"
+  },
+  {
+    "id": 37,
+    "bank_id": 1,
+    "mcc_code": "7277"
+  },
+  {
+    "id": 38,
+    "bank_id": 1,
+    "mcc_code": "7299"
+  },
+  {
+    "id": 39,
+    "bank_id": 1,
+    "mcc_code": "7311"
+  },
+  {
+    "id": 40,
+    "bank_id": 1,
+    "mcc_code": "7322"
+  },
+  {
+    "id": 41,
+    "bank_id": 1,
+    "mcc_code": "7372"
+  },
+  {
+    "id": 42,
+    "bank_id": 1,
+    "mcc_code": "7399"
+  },
+  {
+    "id": 43,
+    "bank_id": 1,
+    "mcc_code": "7995"
+  },
+  {
+    "id": 44,
+    "bank_id": 1,
+    "mcc_code": "8641"
+  },
+  {
+    "id": 45,
+    "bank_id": 1,
+    "mcc_code": "8661"
+  },
+  {
+    "id": 46,
+    "bank_id": 1,
+    "mcc_code": "8931"
+  },
+  {
+    "id": 47,
+    "bank_id": 1,
+    "mcc_code": "8999"
+  },
+  {
+    "id": 48,
+    "bank_id": 1,
+    "mcc_code": "9211"
+  },
+  {
+    "id": 49,
+    "bank_id": 1,
+    "mcc_code": "9222"
+  },
+  {
+    "id": 50,
+    "bank_id": 1,
+    "mcc_code": "9223"
+  },
+  {
+    "id": 51,
+    "bank_id": 1,
+    "mcc_code": "9311"
+  },
+  {
+    "id": 52,
+    "bank_id": 1,
+    "mcc_code": "9390"
+  },
+  {
+    "id": 53,
+    "bank_id": 1,
+    "mcc_code": "9400"
+  },
+  {
+    "id": 54,
+    "bank_id": 1,
+    "mcc_code": "9406"
+  },
+  {
+    "id": 55,
+    "bank_id": 1,
+    "mcc_code": "9411"
+  },
+  {
+    "id": 56,
+    "bank_id": 3,
+    "mcc_code": "0763"
+  },
+  {
+    "id": 57,
+    "bank_id": 3,
+    "mcc_code": "1799"
+  },
+  {
+    "id": 58,
+    "bank_id": 3,
+    "mcc_code": "2791"
+  },
+  {
+    "id": 59,
+    "bank_id": 3,
+    "mcc_code": "2842"
+  },
+  {
+    "id": 60,
+    "bank_id": 3,
+    "mcc_code": "4215"
+  },
+  {
+    "id": 61,
+    "bank_id": 3,
+    "mcc_code": "4225"
+  },
+  {
+    "id": 62,
+    "bank_id": 3,
+    "mcc_code": "4812"
+  },
+  {
+    "id": 63,
+    "bank_id": 3,
+    "mcc_code": "4813"
+  },
+  {
+    "id": 64,
+    "bank_id": 3,
+    "mcc_code": "4814"
+  },
+  {
+    "id": 65,
+    "bank_id": 3,
+    "mcc_code": "4815"
+  },
+  {
+    "id": 66,
+    "bank_id": 3,
+    "mcc_code": "4816"
+  },
+  {
+    "id": 67,
+    "bank_id": 3,
+    "mcc_code": "4821"
+  },
+  {
+    "id": 68,
+    "bank_id": 3,
+    "mcc_code": "4829"
+  },
+  {
+    "id": 69,
+    "bank_id": 3,
+    "mcc_code": "4899"
+  },
+  {
+    "id": 70,
+    "bank_id": 3,
+    "mcc_code": "4900"
+  },
+  {
+    "id": 71,
+    "bank_id": 3,
+    "mcc_code": "5169"
+  },
+  {
+    "id": 72,
+    "bank_id": 3,
+    "mcc_code": "5199"
+  },
+  {
+    "id": 73,
+    "bank_id": 3,
+    "mcc_code": "5271"
+  },
+  {
+    "id": 74,
+    "bank_id": 3,
+    "mcc_code": "5416"
+  },
+  {
+    "id": 75,
+    "bank_id": 3,
+    "mcc_code": "5417"
+  },
+  {
+    "id": 76,
+    "bank_id": 3,
+    "mcc_code": "5933"
+  },
+  {
+    "id": 77,
+    "bank_id": 3,
+    "mcc_code": "5935"
+  },
+  {
+    "id": 78,
+    "bank_id": 3,
+    "mcc_code": "5960"
+  },
+  {
+    "id": 79,
+    "bank_id": 3,
+    "mcc_code": "5962"
+  },
+  {
+    "id": 80,
+    "bank_id": 3,
+    "mcc_code": "6009"
+  },
+  {
+    "id": 81,
+    "bank_id": 3,
+    "mcc_code": "6010"
+  },
+  {
+    "id": 82,
+    "bank_id": 3,
+    "mcc_code": "6011"
+  },
+  {
+    "id": 83,
+    "bank_id": 3,
+    "mcc_code": "6012"
+  },
+  {
+    "id": 84,
+    "bank_id": 3,
+    "mcc_code": "6022"
+  },
+  {
+    "id": 85,
+    "bank_id": 3,
+    "mcc_code": "6023"
+  },
+  {
+    "id": 86,
+    "bank_id": 3,
+    "mcc_code": "6025"
+  },
+  {
+    "id": 87,
+    "bank_id": 3,
+    "mcc_code": "6026"
+  },
+  {
+    "id": 88,
+    "bank_id": 3,
+    "mcc_code": "6028"
+  },
+  {
+    "id": 89,
+    "bank_id": 3,
+    "mcc_code": "6050"
+  },
+  {
+    "id": 90,
+    "bank_id": 3,
+    "mcc_code": "6051"
+  },
+  {
+    "id": 91,
+    "bank_id": 3,
+    "mcc_code": "6211"
+  },
+  {
+    "id": 92,
+    "bank_id": 3,
+    "mcc_code": "6300"
+  },
+  {
+    "id": 93,
+    "bank_id": 3,
+    "mcc_code": "6381"
+  },
+  {
+    "id": 94,
+    "bank_id": 3,
+    "mcc_code": "6399"
+  },
+  {
+    "id": 95,
+    "bank_id": 3,
+    "mcc_code": "6513"
+  },
+  {
+    "id": 96,
+    "bank_id": 3,
+    "mcc_code": "6529"
+  },
+  {
+    "id": 97,
+    "bank_id": 3,
+    "mcc_code": "6530"
+  },
+  {
+    "id": 98,
+    "bank_id": 3,
+    "mcc_code": "6531"
+  },
+  {
+    "id": 99,
+    "bank_id": 3,
+    "mcc_code": "6532"
+  },
+  {
+    "id": 100,
+    "bank_id": 3,
+    "mcc_code": "6533"
+  },
+  {
+    "id": 101,
+    "bank_id": 3,
+    "mcc_code": "6534"
+  },
+  {
+    "id": 102,
+    "bank_id": 3,
+    "mcc_code": "6535"
+  },
+  {
+    "id": 103,
+    "bank_id": 3,
+    "mcc_code": "6536"
+  },
+  {
+    "id": 104,
+    "bank_id": 3,
+    "mcc_code": "6537"
+  },
+  {
+    "id": 105,
+    "bank_id": 3,
+    "mcc_code": "6538"
+  },
+  {
+    "id": 106,
+    "bank_id": 3,
+    "mcc_code": "6539"
+  },
+  {
+    "id": 107,
+    "bank_id": 3,
+    "mcc_code": "6540"
+  },
+  {
+    "id": 108,
+    "bank_id": 3,
+    "mcc_code": "6555"
+  },
+  {
+    "id": 109,
+    "bank_id": 3,
+    "mcc_code": "6611"
+  },
+  {
+    "id": 110,
+    "bank_id": 3,
+    "mcc_code": "6760"
+  },
+  {
+    "id": 111,
+    "bank_id": 3,
+    "mcc_code": "7012"
+  },
+  {
+    "id": 112,
+    "bank_id": 3,
+    "mcc_code": "7273"
+  },
+  {
+    "id": 113,
+    "bank_id": 3,
+    "mcc_code": "7276"
+  },
+  {
+    "id": 114,
+    "bank_id": 3,
+    "mcc_code": "7277"
+  },
+  {
+    "id": 115,
+    "bank_id": 3,
+    "mcc_code": "7280"
+  },
+  {
+    "id": 116,
+    "bank_id": 3,
+    "mcc_code": "7299"
+  },
+  {
+    "id": 117,
+    "bank_id": 3,
+    "mcc_code": "7311"
+  },
+  {
+    "id": 118,
+    "bank_id": 3,
+    "mcc_code": "7321"
+  },
+  {
+    "id": 119,
+    "bank_id": 3,
+    "mcc_code": "7322"
+  },
+  {
+    "id": 120,
+    "bank_id": 3,
+    "mcc_code": "7372"
+  },
+  {
+    "id": 121,
+    "bank_id": 3,
+    "mcc_code": "7375"
+  },
+  {
+    "id": 122,
+    "bank_id": 3,
+    "mcc_code": "7389"
+  },
+  {
+    "id": 123,
+    "bank_id": 3,
+    "mcc_code": "7392"
+  },
+  {
+    "id": 124,
+    "bank_id": 3,
+    "mcc_code": "7393"
+  },
+  {
+    "id": 125,
+    "bank_id": 3,
+    "mcc_code": "7399"
+  },
+  {
+    "id": 126,
+    "bank_id": 3,
+    "mcc_code": "7511"
+  },
+  {
+    "id": 127,
+    "bank_id": 3,
+    "mcc_code": "7800"
+  },
+  {
+    "id": 128,
+    "bank_id": 3,
+    "mcc_code": "7801"
+  },
+  {
+    "id": 129,
+    "bank_id": 3,
+    "mcc_code": "7802"
+  },
+  {
+    "id": 130,
+    "bank_id": 3,
+    "mcc_code": "7995"
+  },
+  {
+    "id": 131,
+    "bank_id": 3,
+    "mcc_code": "8111"
+  },
+  {
+    "id": 132,
+    "bank_id": 3,
+    "mcc_code": "8398"
+  },
+  {
+    "id": 133,
+    "bank_id": 3,
+    "mcc_code": "8641"
+  },
+  {
+    "id": 134,
+    "bank_id": 3,
+    "mcc_code": "8651"
+  },
+  {
+    "id": 135,
+    "bank_id": 3,
+    "mcc_code": "8661"
+  },
+  {
+    "id": 136,
+    "bank_id": 3,
+    "mcc_code": "8675"
+  },
+  {
+    "id": 137,
+    "bank_id": 3,
+    "mcc_code": "8699"
+  },
+  {
+    "id": 138,
+    "bank_id": 3,
+    "mcc_code": "8734"
+  },
+  {
+    "id": 139,
+    "bank_id": 3,
+    "mcc_code": "8911"
+  },
+  {
+    "id": 140,
+    "bank_id": 3,
+    "mcc_code": "8931"
+  },
+  {
+    "id": 141,
+    "bank_id": 3,
+    "mcc_code": "8999"
+  },
+  {
+    "id": 142,
+    "bank_id": 3,
+    "mcc_code": "9211"
+  },
+  {
+    "id": 143,
+    "bank_id": 3,
+    "mcc_code": "9222"
+  },
+  {
+    "id": 144,
+    "bank_id": 3,
+    "mcc_code": "9223"
+  },
+  {
+    "id": 145,
+    "bank_id": 3,
+    "mcc_code": "9311"
+  },
+  {
+    "id": 146,
+    "bank_id": 3,
+    "mcc_code": "9312"
+  },
+  {
+    "id": 147,
+    "bank_id": 3,
+    "mcc_code": "9313"
+  },
+  {
+    "id": 148,
+    "bank_id": 3,
+    "mcc_code": "9314"
+  },
+  {
+    "id": 149,
+    "bank_id": 3,
+    "mcc_code": "9390"
+  },
+  {
+    "id": 150,
+    "bank_id": 3,
+    "mcc_code": "9399"
+  },
+  {
+    "id": 151,
+    "bank_id": 3,
+    "mcc_code": "9400"
+  },
+  {
+    "id": 152,
+    "bank_id": 3,
+    "mcc_code": "9401"
+  },
+  {
+    "id": 153,
+    "bank_id": 3,
+    "mcc_code": "9402"
+  },
+  {
+    "id": 154,
+    "bank_id": 3,
+    "mcc_code": "9405"
+  },
+  {
+    "id": 155,
+    "bank_id": 3,
+    "mcc_code": "9406"
+  },
+  {
+    "id": 156,
+    "bank_id": 3,
+    "mcc_code": "9411"
+  },
+  {
+    "id": 157,
+    "bank_id": 3,
+    "mcc_code": "9700"
+  },
+  {
+    "id": 158,
+    "bank_id": 3,
+    "mcc_code": "9701"
+  },
+  {
+    "id": 159,
+    "bank_id": 3,
+    "mcc_code": "9702"
+  },
+  {
+    "id": 160,
+    "bank_id": 3,
+    "mcc_code": "9751"
+  },
+  {
+    "id": 161,
+    "bank_id": 3,
+    "mcc_code": "9752"
+  },
+  {
+    "id": 162,
+    "bank_id": 3,
+    "mcc_code": "9950"
+  },
+  {
+    "id": 163,
+    "bank_id": 2,
+    "mcc_code": "2791"
+  },
+  {
+    "id": 164,
+    "bank_id": 2,
+    "mcc_code": "4011"
+  },
+  {
+    "id": 165,
+    "bank_id": 2,
+    "mcc_code": "4214"
+  },
+  {
+    "id": 166,
+    "bank_id": 2,
+    "mcc_code": "4215"
+  },
+  {
+    "id": 167,
+    "bank_id": 2,
+    "mcc_code": "4468"
+  },
+  {
+    "id": 168,
+    "bank_id": 2,
+    "mcc_code": "4729"
+  },
+  {
+    "id": 169,
+    "bank_id": 2,
+    "mcc_code": "4785"
+  },
+  {
+    "id": 170,
+    "bank_id": 2,
+    "mcc_code": "4789"
+  },
+  {
+    "id": 171,
+    "bank_id": 2,
+    "mcc_code": "4812"
+  },
+  {
+    "id": 172,
+    "bank_id": 2,
+    "mcc_code": "4813"
+  },
+  {
+    "id": 173,
+    "bank_id": 2,
+    "mcc_code": "4814"
+  },
+  {
+    "id": 174,
+    "bank_id": 2,
+    "mcc_code": "4815"
+  },
+  {
+    "id": 175,
+    "bank_id": 2,
+    "mcc_code": "4816"
+  },
+  {
+    "id": 176,
+    "bank_id": 2,
+    "mcc_code": "4821"
+  },
+  {
+    "id": 177,
+    "bank_id": 2,
+    "mcc_code": "4829"
+  },
+  {
+    "id": 178,
+    "bank_id": 2,
+    "mcc_code": "4899"
+  },
+  {
+    "id": 179,
+    "bank_id": 2,
+    "mcc_code": "4900"
+  },
+  {
+    "id": 180,
+    "bank_id": 2,
+    "mcc_code": "5044"
+  },
+  {
+    "id": 181,
+    "bank_id": 2,
+    "mcc_code": "5045"
+  },
+  {
+    "id": 182,
+    "bank_id": 2,
+    "mcc_code": "5046"
+  },
+  {
+    "id": 183,
+    "bank_id": 2,
+    "mcc_code": "5047"
+  },
+  {
+    "id": 184,
+    "bank_id": 2,
+    "mcc_code": "5085"
+  },
+  {
+    "id": 185,
+    "bank_id": 2,
+    "mcc_code": "5099"
+  },
+  {
+    "id": 186,
+    "bank_id": 2,
+    "mcc_code": "5131"
+  },
+  {
+    "id": 187,
+    "bank_id": 2,
+    "mcc_code": "5169"
+  },
+  {
+    "id": 188,
+    "bank_id": 2,
+    "mcc_code": "5193"
+  },
+  {
+    "id": 189,
+    "bank_id": 2,
+    "mcc_code": "5199"
+  },
+  {
+    "id": 190,
+    "bank_id": 2,
+    "mcc_code": "5262"
+  },
+  {
+    "id": 191,
+    "bank_id": 2,
+    "mcc_code": "5297"
+  },
+  {
+    "id": 192,
+    "bank_id": 2,
+    "mcc_code": "5298"
+  },
+  {
+    "id": 193,
+    "bank_id": 2,
+    "mcc_code": "5300"
+  },
+  {
+    "id": 194,
+    "bank_id": 2,
+    "mcc_code": "5715"
+  },
+  {
+    "id": 195,
+    "bank_id": 2,
+    "mcc_code": "5933"
+  },
+  {
+    "id": 196,
+    "bank_id": 2,
+    "mcc_code": "5960"
+  },
+  {
+    "id": 197,
+    "bank_id": 2,
+    "mcc_code": "5964"
+  },
+  {
+    "id": 198,
+    "bank_id": 2,
+    "mcc_code": "5968"
+  },
+  {
+    "id": 199,
+    "bank_id": 2,
+    "mcc_code": "5993"
+  },
+  {
+    "id": 200,
+    "bank_id": 2,
+    "mcc_code": "6009"
+  },
+  {
+    "id": 201,
+    "bank_id": 2,
+    "mcc_code": "6010"
+  },
+  {
+    "id": 202,
+    "bank_id": 2,
+    "mcc_code": "6011"
+  },
+  {
+    "id": 203,
+    "bank_id": 2,
+    "mcc_code": "6012"
+  },
+  {
+    "id": 204,
+    "bank_id": 2,
+    "mcc_code": "6050"
+  },
+  {
+    "id": 205,
+    "bank_id": 2,
+    "mcc_code": "6051"
+  },
+  {
+    "id": 206,
+    "bank_id": 2,
+    "mcc_code": "6211"
+  },
+  {
+    "id": 207,
+    "bank_id": 2,
+    "mcc_code": "6300"
+  },
+  {
+    "id": 208,
+    "bank_id": 2,
+    "mcc_code": "6381"
+  },
+  {
+    "id": 209,
+    "bank_id": 2,
+    "mcc_code": "6399"
+  },
+  {
+    "id": 210,
+    "bank_id": 2,
+    "mcc_code": "6529"
+  },
+  {
+    "id": 211,
+    "bank_id": 2,
+    "mcc_code": "6530"
+  },
+  {
+    "id": 212,
+    "bank_id": 2,
+    "mcc_code": "6531"
+  },
+  {
+    "id": 213,
+    "bank_id": 2,
+    "mcc_code": "6532"
+  },
+  {
+    "id": 214,
+    "bank_id": 2,
+    "mcc_code": "6533"
+  },
+  {
+    "id": 215,
+    "bank_id": 2,
+    "mcc_code": "6534"
+  },
+  {
+    "id": 216,
+    "bank_id": 2,
+    "mcc_code": "6535"
+  },
+  {
+    "id": 217,
+    "bank_id": 2,
+    "mcc_code": "6536"
+  },
+  {
+    "id": 218,
+    "bank_id": 2,
+    "mcc_code": "6537"
+  },
+  {
+    "id": 219,
+    "bank_id": 2,
+    "mcc_code": "6538"
+  },
+  {
+    "id": 220,
+    "bank_id": 2,
+    "mcc_code": "6539"
+  },
+  {
+    "id": 221,
+    "bank_id": 2,
+    "mcc_code": "6540"
+  },
+  {
+    "id": 222,
+    "bank_id": 2,
+    "mcc_code": "7276"
+  },
+  {
+    "id": 223,
+    "bank_id": 2,
+    "mcc_code": "7277"
+  },
+  {
+    "id": 224,
+    "bank_id": 2,
+    "mcc_code": "7311"
+  },
+  {
+    "id": 225,
+    "bank_id": 2,
+    "mcc_code": "7372"
+  },
+  {
+    "id": 226,
+    "bank_id": 2,
+    "mcc_code": "7375"
+  },
+  {
+    "id": 227,
+    "bank_id": 2,
+    "mcc_code": "7389"
+  },
+  {
+    "id": 228,
+    "bank_id": 2,
+    "mcc_code": "7399"
+  },
+  {
+    "id": 229,
+    "bank_id": 2,
+    "mcc_code": "7800"
+  },
+  {
+    "id": 230,
+    "bank_id": 2,
+    "mcc_code": "7801"
+  },
+  {
+    "id": 231,
+    "bank_id": 2,
+    "mcc_code": "7802"
+  },
+  {
+    "id": 232,
+    "bank_id": 2,
+    "mcc_code": "7995"
+  },
+  {
+    "id": 233,
+    "bank_id": 2,
+    "mcc_code": "8398"
+  },
+  {
+    "id": 234,
+    "bank_id": 2,
+    "mcc_code": "8641"
+  },
+  {
+    "id": 235,
+    "bank_id": 2,
+    "mcc_code": "8651"
+  },
+  {
+    "id": 236,
+    "bank_id": 2,
+    "mcc_code": "8661"
+  },
+  {
+    "id": 237,
+    "bank_id": 2,
+    "mcc_code": "8675"
+  },
+  {
+    "id": 238,
+    "bank_id": 2,
+    "mcc_code": "8699"
+  },
+  {
+    "id": 239,
+    "bank_id": 2,
+    "mcc_code": "8911"
+  },
+  {
+    "id": 240,
+    "bank_id": 2,
+    "mcc_code": "8999"
+  },
+  {
+    "id": 241,
+    "bank_id": 2,
+    "mcc_code": "9211"
+  },
+  {
+    "id": 242,
+    "bank_id": 2,
+    "mcc_code": "9222"
+  },
+  {
+    "id": 243,
+    "bank_id": 2,
+    "mcc_code": "9223"
+  },
+  {
+    "id": 244,
+    "bank_id": 2,
+    "mcc_code": "9311"
+  },
+  {
+    "id": 245,
+    "bank_id": 2,
+    "mcc_code": "9313"
+  },
+  {
+    "id": 246,
+    "bank_id": 2,
+    "mcc_code": "9390"
+  },
+  {
+    "id": 247,
+    "bank_id": 2,
+    "mcc_code": "9399"
+  },
+  {
+    "id": 248,
+    "bank_id": 2,
+    "mcc_code": "9400"
+  },
+  {
+    "id": 249,
+    "bank_id": 2,
+    "mcc_code": "9401"
+  },
+  {
+    "id": 250,
+    "bank_id": 2,
+    "mcc_code": "9402"
+  },
+  {
+    "id": 251,
+    "bank_id": 2,
+    "mcc_code": "9405"
+  },
+  {
+    "id": 252,
+    "bank_id": 2,
+    "mcc_code": "9406"
+  },
+  {
+    "id": 253,
+    "bank_id": 2,
+    "mcc_code": "9754"
+  },
+  {
+    "id": 254,
+    "bank_id": 2,
+    "mcc_code": "9950"
+  },
+  {
+    "id": 255,
+    "bank_id": 2,
+    "mcc_code": "9990"
+  },
+  {
+    "id": 256,
+    "bank_id": 2,
+    "mcc_code": "9991"
+  },
+  {
+    "id": 257,
+    "bank_id": 2,
+    "mcc_code": "9994"
+  },
+  {
+    "id": 258,
+    "bank_id": 2,
+    "mcc_code": "9995"
+  },
+  {
+    "id": 259,
+    "bank_id": 2,
+    "mcc_code": "9996"
+  },
+  {
+    "id": 260,
+    "bank_id": 2,
+    "mcc_code": "9997"
+  },
+  {
+    "id": 261,
+    "bank_id": 2,
+    "mcc_code": "9998"
+  },
+  {
+    "id": 262,
+    "bank_id": 2,
+    "mcc_code": "9999"
+  }
+]

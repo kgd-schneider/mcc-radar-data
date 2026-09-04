@@ -85,7 +85,7 @@
   },
   {
     "mcc_code": "9222",
-    "icon_category_id": "fines"
+    "icon_category_id": "gov_services"
   },
   {
     "mcc_code": "0019",
@@ -1148,6 +1148,10 @@
     "icon_category_id": "auto"
   },
   {
+    "mcc_code": "5599",
+    "icon_category_id": "auto"
+  },
+  {
     "mcc_code": "7511",
     "icon_category_id": "auto"
   },
@@ -1181,10 +1185,6 @@
   },
   {
     "mcc_code": "8676",
-    "icon_category_id": "auto"
-  },
-  {
-    "mcc_code": "5599",
     "icon_category_id": "auto"
   },
   {

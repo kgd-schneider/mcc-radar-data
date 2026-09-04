@@ -1,0 +1,3930 @@
+[
+  {
+    "mcc_code": "5094",
+    "icon_category_id": "jewelry"
+  },
+  {
+    "mcc_code": "5944",
+    "icon_category_id": "jewelry"
+  },
+  {
+    "mcc_code": "7631",
+    "icon_category_id": "jewelry"
+  },
+  {
+    "mcc_code": "5193",
+    "icon_category_id": "flowers"
+  },
+  {
+    "mcc_code": "5992",
+    "icon_category_id": "flowers"
+  },
+  {
+    "mcc_code": "0742",
+    "icon_category_id": "pets"
+  },
+  {
+    "mcc_code": "5995",
+    "icon_category_id": "pets"
+  },
+  {
+    "mcc_code": "5641",
+    "icon_category_id": "kids"
+  },
+  {
+    "mcc_code": "5945",
+    "icon_category_id": "kids"
+  },
+  {
+    "mcc_code": "5733",
+    "icon_category_id": "music"
+  },
+  {
+    "mcc_code": "5735",
+    "icon_category_id": "music"
+  },
+  {
+    "mcc_code": "5309",
+    "icon_category_id": "dutyfree"
+  },
+  {
+    "mcc_code": "5044",
+    "icon_category_id": "photo"
+  },
+  {
+    "mcc_code": "5045",
+    "icon_category_id": "photo"
+  },
+  {
+    "mcc_code": "5544",
+    "icon_category_id": "photo"
+  },
+  {
+    "mcc_code": "7332",
+    "icon_category_id": "photo"
+  },
+  {
+    "mcc_code": "7333",
+    "icon_category_id": "photo"
+  },
+  {
+    "mcc_code": "7338",
+    "icon_category_id": "photo"
+  },
+  {
+    "mcc_code": "7339",
+    "icon_category_id": "photo"
+  },
+  {
+    "mcc_code": "7395",
+    "icon_category_id": "photo"
+  },
+  {
+    "mcc_code": "7216",
+    "icon_category_id": "drycleaning"
+  },
+  {
+    "mcc_code": "9222",
+    "icon_category_id": "fines"
+  },
+  {
+    "mcc_code": "0019",
+    "icon_category_id": "digital"
+  },
+  {
+    "mcc_code": "5734",
+    "icon_category_id": "digital"
+  },
+  {
+    "mcc_code": "5815",
+    "icon_category_id": "digital"
+  },
+  {
+    "mcc_code": "5816",
+    "icon_category_id": "digital"
+  },
+  {
+    "mcc_code": "5817",
+    "icon_category_id": "digital"
+  },
+  {
+    "mcc_code": "5818",
+    "icon_category_id": "digital"
+  },
+  {
+    "mcc_code": "4813",
+    "icon_category_id": "utilities"
+  },
+  {
+    "mcc_code": "4814",
+    "icon_category_id": "utilities"
+  },
+  {
+    "mcc_code": "4815",
+    "icon_category_id": "utilities"
+  },
+  {
+    "mcc_code": "4816",
+    "icon_category_id": "utilities"
+  },
+  {
+    "mcc_code": "4821",
+    "icon_category_id": "utilities"
+  },
+  {
+    "mcc_code": "4899",
+    "icon_category_id": "utilities"
+  },
+  {
+    "mcc_code": "4900",
+    "icon_category_id": "utilities"
+  },
+  {
+    "mcc_code": "7372",
+    "icon_category_id": "utilities"
+  },
+  {
+    "mcc_code": "7375",
+    "icon_category_id": "utilities"
+  },
+  {
+    "mcc_code": "4119",
+    "icon_category_id": "pharmacy"
+  },
+  {
+    "mcc_code": "5047",
+    "icon_category_id": "pharmacy"
+  },
+  {
+    "mcc_code": "5122",
+    "icon_category_id": "pharmacy"
+  },
+  {
+    "mcc_code": "5292",
+    "icon_category_id": "pharmacy"
+  },
+  {
+    "mcc_code": "5295",
+    "icon_category_id": "pharmacy"
+  },
+  {
+    "mcc_code": "5912",
+    "icon_category_id": "pharmacy"
+  },
+  {
+    "mcc_code": "5975",
+    "icon_category_id": "pharmacy"
+  },
+  {
+    "mcc_code": "5976",
+    "icon_category_id": "pharmacy"
+  },
+  {
+    "mcc_code": "8011",
+    "icon_category_id": "pharmacy"
+  },
+  {
+    "mcc_code": "8021",
+    "icon_category_id": "pharmacy"
+  },
+  {
+    "mcc_code": "8031",
+    "icon_category_id": "pharmacy"
+  },
+  {
+    "mcc_code": "8041",
+    "icon_category_id": "pharmacy"
+  },
+  {
+    "mcc_code": "8042",
+    "icon_category_id": "pharmacy"
+  },
+  {
+    "mcc_code": "8043",
+    "icon_category_id": "pharmacy"
+  },
+  {
+    "mcc_code": "8044",
+    "icon_category_id": "pharmacy"
+  },
+  {
+    "mcc_code": "8049",
+    "icon_category_id": "pharmacy"
+  },
+  {
+    "mcc_code": "8050",
+    "icon_category_id": "pharmacy"
+  },
+  {
+    "mcc_code": "8062",
+    "icon_category_id": "pharmacy"
+  },
+  {
+    "mcc_code": "8071",
+    "icon_category_id": "pharmacy"
+  },
+  {
+    "mcc_code": "8099",
+    "icon_category_id": "pharmacy"
+  },
+  {
+    "mcc_code": "5311",
+    "icon_category_id": "beauty"
+  },
+  {
+    "mcc_code": "5698",
+    "icon_category_id": "beauty"
+  },
+  {
+    "mcc_code": "5977",
+    "icon_category_id": "beauty"
+  },
+  {
+    "mcc_code": "7230",
+    "icon_category_id": "beauty"
+  },
+  {
+    "mcc_code": "7297",
+    "icon_category_id": "beauty"
+  },
+  {
+    "mcc_code": "7298",
+    "icon_category_id": "beauty"
+  },
+  {
+    "mcc_code": "5655",
+    "icon_category_id": "sport"
+  },
+  {
+    "mcc_code": "5940",
+    "icon_category_id": "sport"
+  },
+  {
+    "mcc_code": "5941",
+    "icon_category_id": "sport"
+  },
+  {
+    "mcc_code": "7911",
+    "icon_category_id": "sport"
+  },
+  {
+    "mcc_code": "7941",
+    "icon_category_id": "sport"
+  },
+  {
+    "mcc_code": "7992",
+    "icon_category_id": "sport"
+  },
+  {
+    "mcc_code": "7997",
+    "icon_category_id": "sport"
+  },
+  {
+    "mcc_code": "5137",
+    "icon_category_id": "clothing"
+  },
+  {
+    "mcc_code": "5139",
+    "icon_category_id": "clothing"
+  },
+  {
+    "mcc_code": "5611",
+    "icon_category_id": "clothing"
+  },
+  {
+    "mcc_code": "5621",
+    "icon_category_id": "clothing"
+  },
+  {
+    "mcc_code": "5631",
+    "icon_category_id": "clothing"
+  },
+  {
+    "mcc_code": "5651",
+    "icon_category_id": "clothing"
+  },
+  {
+    "mcc_code": "5661",
+    "icon_category_id": "clothing"
+  },
+  {
+    "mcc_code": "5681",
+    "icon_category_id": "clothing"
+  },
+  {
+    "mcc_code": "5691",
+    "icon_category_id": "clothing"
+  },
+  {
+    "mcc_code": "5697",
+    "icon_category_id": "clothing"
+  },
+  {
+    "mcc_code": "5699",
+    "icon_category_id": "clothing"
+  },
+  {
+    "mcc_code": "5931",
+    "icon_category_id": "clothing"
+  },
+  {
+    "mcc_code": "5948",
+    "icon_category_id": "clothing"
+  },
+  {
+    "mcc_code": "7251",
+    "icon_category_id": "clothing"
+  },
+  {
+    "mcc_code": "7296",
+    "icon_category_id": "clothing"
+  },
+  {
+    "mcc_code": "0780",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "1520",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "1711",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "1731",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "1740",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "1750",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "1761",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "1771",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "1799",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "2842",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "5021",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "5039",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "5046",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "5051",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "5065",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "5072",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "5074",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "5085",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "5131",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "5198",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "5200",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "5211",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "5231",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "5251",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "5261",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "5331",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "5415",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "5712",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "5713",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "5714",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "5718",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "5719",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "5949",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "5950",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "5996",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "5998",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "7217",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "7379",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "7622",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "7623",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "7629",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "7641",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "7692",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "7699",
+    "icon_category_id": "home"
+  },
+  {
+    "mcc_code": "5722",
+    "icon_category_id": "electronics"
+  },
+  {
+    "mcc_code": "5732",
+    "icon_category_id": "electronics"
+  },
+  {
+    "mcc_code": "5946",
+    "icon_category_id": "electronics"
+  },
+  {
+    "mcc_code": "5978",
+    "icon_category_id": "electronics"
+  },
+  {
+    "mcc_code": "5997",
+    "icon_category_id": "electronics"
+  },
+  {
+    "mcc_code": "2741",
+    "icon_category_id": "books"
+  },
+  {
+    "mcc_code": "5111",
+    "icon_category_id": "books"
+  },
+  {
+    "mcc_code": "5192",
+    "icon_category_id": "books"
+  },
+  {
+    "mcc_code": "5942",
+    "icon_category_id": "books"
+  },
+  {
+    "mcc_code": "5943",
+    "icon_category_id": "books"
+  },
+  {
+    "mcc_code": "5994",
+    "icon_category_id": "books"
+  },
+  {
+    "mcc_code": "8211",
+    "icon_category_id": "books"
+  },
+  {
+    "mcc_code": "8220",
+    "icon_category_id": "books"
+  },
+  {
+    "mcc_code": "8241",
+    "icon_category_id": "books"
+  },
+  {
+    "mcc_code": "8244",
+    "icon_category_id": "books"
+  },
+  {
+    "mcc_code": "8249",
+    "icon_category_id": "books"
+  },
+  {
+    "mcc_code": "8299",
+    "icon_category_id": "books"
+  },
+  {
+    "mcc_code": "8351",
+    "icon_category_id": "books"
+  },
+  {
+    "mcc_code": "8493",
+    "icon_category_id": "books"
+  },
+  {
+    "mcc_code": "8494",
+    "icon_category_id": "books"
+  },
+  {
+    "mcc_code": "5262",
+    "icon_category_id": "marketplaces"
+  },
+  {
+    "mcc_code": "5300",
+    "icon_category_id": "marketplaces"
+  },
+  {
+    "mcc_code": "5399",
+    "icon_category_id": "marketplaces"
+  },
+  {
+    "mcc_code": "5964",
+    "icon_category_id": "marketplaces"
+  },
+  {
+    "mcc_code": "5297",
+    "icon_category_id": "groceries"
+  },
+  {
+    "mcc_code": "5298",
+    "icon_category_id": "groceries"
+  },
+  {
+    "mcc_code": "5310",
+    "icon_category_id": "groceries"
+  },
+  {
+    "mcc_code": "5411",
+    "icon_category_id": "groceries"
+  },
+  {
+    "mcc_code": "5412",
+    "icon_category_id": "groceries"
+  },
+  {
+    "mcc_code": "5422",
+    "icon_category_id": "groceries"
+  },
+  {
+    "mcc_code": "5441",
+    "icon_category_id": "groceries"
+  },
+  {
+    "mcc_code": "5451",
+    "icon_category_id": "groceries"
+  },
+  {
+    "mcc_code": "5462",
+    "icon_category_id": "groceries"
+  },
+  {
+    "mcc_code": "5499",
+    "icon_category_id": "groceries"
+  },
+  {
+    "mcc_code": "5715",
+    "icon_category_id": "groceries"
+  },
+  {
+    "mcc_code": "5921",
+    "icon_category_id": "groceries"
+  },
+  {
+    "mcc_code": "9751",
+    "icon_category_id": "groceries"
+  },
+  {
+    "mcc_code": "5811",
+    "icon_category_id": "restaurants"
+  },
+  {
+    "mcc_code": "5812",
+    "icon_category_id": "restaurants"
+  },
+  {
+    "mcc_code": "5813",
+    "icon_category_id": "restaurants"
+  },
+  {
+    "mcc_code": "5814",
+    "icon_category_id": "fastfood"
+  },
+  {
+    "mcc_code": "5172",
+    "icon_category_id": "fuel"
+  },
+  {
+    "mcc_code": "5541",
+    "icon_category_id": "fuel"
+  },
+  {
+    "mcc_code": "5542",
+    "icon_category_id": "fuel"
+  },
+  {
+    "mcc_code": "5552",
+    "icon_category_id": "fuel"
+  },
+  {
+    "mcc_code": "5983",
+    "icon_category_id": "fuel"
+  },
+  {
+    "mcc_code": "9752",
+    "icon_category_id": "fuel"
+  },
+  {
+    "mcc_code": "3351",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3352",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3353",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3354",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3355",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3356",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3357",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3358",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3359",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3360",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3361",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3362",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3363",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3364",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3365",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3366",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3367",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3368",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3369",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3370",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3371",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3372",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3373",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3374",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3375",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3376",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3377",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3378",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3379",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3380",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3381",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3382",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3383",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3384",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3385",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3386",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3387",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3388",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3389",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3390",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3391",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3392",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3393",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3394",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3395",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3396",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3397",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3398",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3399",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3400",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3401",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3402",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3403",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3404",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3405",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3406",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3407",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3408",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3409",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3410",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3411",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3412",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3413",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3414",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3415",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3416",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3417",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3418",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3419",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3420",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3421",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3422",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3423",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3424",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3425",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3426",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3427",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3428",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3429",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3430",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3431",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3432",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3433",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3434",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3435",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3436",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3437",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3438",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3439",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3440",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "3441",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "7512",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "7513",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "7519",
+    "icon_category_id": "carshare"
+  },
+  {
+    "mcc_code": "4111",
+    "icon_category_id": "taxi"
+  },
+  {
+    "mcc_code": "4121",
+    "icon_category_id": "taxi"
+  },
+  {
+    "mcc_code": "4131",
+    "icon_category_id": "taxi"
+  },
+  {
+    "mcc_code": "4789",
+    "icon_category_id": "taxi"
+  },
+  {
+    "mcc_code": "4784",
+    "icon_category_id": "auto"
+  },
+  {
+    "mcc_code": "5013",
+    "icon_category_id": "auto"
+  },
+  {
+    "mcc_code": "5271",
+    "icon_category_id": "auto"
+  },
+  {
+    "mcc_code": "5511",
+    "icon_category_id": "auto"
+  },
+  {
+    "mcc_code": "5521",
+    "icon_category_id": "auto"
+  },
+  {
+    "mcc_code": "5531",
+    "icon_category_id": "auto"
+  },
+  {
+    "mcc_code": "5532",
+    "icon_category_id": "auto"
+  },
+  {
+    "mcc_code": "5533",
+    "icon_category_id": "auto"
+  },
+  {
+    "mcc_code": "5551",
+    "icon_category_id": "auto"
+  },
+  {
+    "mcc_code": "5561",
+    "icon_category_id": "auto"
+  },
+  {
+    "mcc_code": "5571",
+    "icon_category_id": "auto"
+  },
+  {
+    "mcc_code": "5592",
+    "icon_category_id": "auto"
+  },
+  {
+    "mcc_code": "5598",
+    "icon_category_id": "auto"
+  },
+  {
+    "mcc_code": "7511",
+    "icon_category_id": "auto"
+  },
+  {
+    "mcc_code": "7523",
+    "icon_category_id": "auto"
+  },
+  {
+    "mcc_code": "7531",
+    "icon_category_id": "auto"
+  },
+  {
+    "mcc_code": "7534",
+    "icon_category_id": "auto"
+  },
+  {
+    "mcc_code": "7535",
+    "icon_category_id": "auto"
+  },
+  {
+    "mcc_code": "7538",
+    "icon_category_id": "auto"
+  },
+  {
+    "mcc_code": "7542",
+    "icon_category_id": "auto"
+  },
+  {
+    "mcc_code": "7549",
+    "icon_category_id": "auto"
+  },
+  {
+    "mcc_code": "8676",
+    "icon_category_id": "auto"
+  },
+  {
+    "mcc_code": "5599",
+    "icon_category_id": "auto"
+  },
+  {
+    "mcc_code": "4011",
+    "icon_category_id": "transit"
+  },
+  {
+    "mcc_code": "4112",
+    "icon_category_id": "transit"
+  },
+  {
+    "mcc_code": "4729",
+    "icon_category_id": "transit"
+  },
+  {
+    "mcc_code": "3000",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3001",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3002",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3003",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3004",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3005",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3006",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3007",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3008",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3009",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3010",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3011",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3012",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3013",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3014",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3015",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3016",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3017",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3018",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3019",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3020",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3021",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3022",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3023",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3024",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3025",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3026",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3027",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3028",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3029",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3030",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3031",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3032",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3033",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3034",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3035",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3036",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3037",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3038",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3039",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3040",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3041",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3042",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3043",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3044",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3045",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3046",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3047",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3048",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3049",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3050",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3051",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3052",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3053",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3054",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3055",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3056",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3057",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3058",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3059",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3060",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3061",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3062",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3063",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3064",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3065",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3066",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3067",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3068",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3069",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3070",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3071",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3072",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3073",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3074",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3075",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3076",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3077",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3078",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3079",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3080",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3081",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3082",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3083",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3084",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3085",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3086",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3087",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3088",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3089",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3090",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3091",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3092",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3093",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3094",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3095",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3096",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3097",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3098",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3099",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3100",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3101",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3102",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3103",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3104",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3105",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3106",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3107",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3108",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3109",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3110",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3111",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3112",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3113",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3114",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3115",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3116",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3117",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3118",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3119",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3120",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3121",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3122",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3123",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3124",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3125",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3126",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3127",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3128",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3129",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3130",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3131",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3132",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3133",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3134",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3135",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3136",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3137",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3138",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3139",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3140",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3141",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3142",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3143",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3144",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3145",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3146",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3147",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3148",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3149",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3150",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3151",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3152",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3153",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3154",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3155",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3156",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3157",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3158",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3159",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3160",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3161",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3162",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3163",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3164",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3165",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3166",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3167",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3168",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3169",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3170",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3171",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3172",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3173",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3174",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3175",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3176",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3177",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3178",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3179",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3180",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3181",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3182",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3183",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3184",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3185",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3186",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3187",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3188",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3189",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3190",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3191",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3192",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3193",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3194",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3195",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3196",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3197",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3198",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3199",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3200",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3201",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3202",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3203",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3204",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3205",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3206",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3207",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3208",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3209",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3210",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3211",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3212",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3213",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3214",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3215",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3216",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3217",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3218",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3219",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3220",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3221",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3222",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3223",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3224",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3225",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3226",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3227",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3228",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3229",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3230",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3231",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3232",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3233",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3234",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3235",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3236",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3237",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3238",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3239",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3240",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3241",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3242",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3243",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3244",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3245",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3246",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3247",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3248",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3249",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3250",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3251",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3252",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3253",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3254",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3255",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3256",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3257",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3258",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3259",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3260",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3261",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3262",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3263",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3264",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3265",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3266",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3267",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3268",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3269",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3270",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3271",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3272",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3273",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3274",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3275",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3276",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3277",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3278",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3279",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3280",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3281",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3282",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3283",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3284",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3285",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3286",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3287",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3288",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3289",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3290",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3291",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3292",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3293",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3294",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3295",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3296",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3297",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3298",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3299",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3300",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3301",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3302",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3303",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3308",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3350",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "4304",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "4411",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "4415",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "4418",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "4511",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "4582",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "4722",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "4723",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "5962",
+    "icon_category_id": "flights"
+  },
+  {
+    "mcc_code": "3501",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3502",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3503",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3504",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3505",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3506",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3507",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3508",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3509",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3510",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3511",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3512",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3513",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3514",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3515",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3516",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3517",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3518",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3519",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3520",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3521",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3522",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3523",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3524",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3525",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3526",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3527",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3528",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3529",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3530",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3531",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3532",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3533",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3534",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3535",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3536",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3537",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3538",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3539",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3540",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3541",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3542",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3543",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3544",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3545",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3546",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3547",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3548",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3549",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3550",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3551",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3552",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3553",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3554",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3555",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3556",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3557",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3558",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3559",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3560",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3561",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3562",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3563",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3564",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3565",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3566",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3567",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3568",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3569",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3570",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3571",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3572",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3573",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3574",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3575",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3576",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3577",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3578",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3579",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3580",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3581",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3582",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3583",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3584",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3585",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3586",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3587",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3588",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3589",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3590",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3591",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3592",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3593",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3594",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3595",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3596",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3597",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3598",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3599",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3600",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3601",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3602",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3603",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3604",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3605",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3606",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3607",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3608",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3609",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3610",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3611",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3612",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3613",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3614",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3615",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3616",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3617",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3618",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3619",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3620",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3621",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3622",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3623",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3624",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3625",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3626",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3627",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3628",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3629",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3630",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3631",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3632",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3633",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3634",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3635",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3636",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3637",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3638",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3639",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3640",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3641",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3642",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3643",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3644",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3645",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3646",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3647",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3648",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3649",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3650",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3651",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3652",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3653",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3654",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3655",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3656",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3657",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3658",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3659",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3660",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3661",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3662",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3663",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3664",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3665",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3666",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3667",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3668",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3669",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3670",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3671",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3672",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3673",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3674",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3675",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3676",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3677",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3678",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3679",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3680",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3681",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3682",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3683",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3684",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3685",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3686",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3687",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3688",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3689",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3690",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3691",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3692",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3693",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3694",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3695",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3696",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3697",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3698",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3699",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3700",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3701",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3702",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3703",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3704",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3705",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3706",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3707",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3708",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3709",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3710",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3711",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3712",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3713",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3714",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3715",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3716",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3717",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3718",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3719",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3720",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3721",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3722",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3723",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3724",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3725",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3726",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3727",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3728",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3729",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3730",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3731",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3732",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3733",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3734",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3735",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3736",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3737",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3738",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3739",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3740",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3741",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3742",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3743",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3744",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3745",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3746",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3747",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3748",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3749",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3750",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3751",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3752",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3753",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3754",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3755",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3756",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3757",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3758",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3759",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3760",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3761",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3762",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3763",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3764",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3765",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3766",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3767",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3768",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3769",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3770",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3771",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3772",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3773",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3774",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3775",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3776",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3777",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3778",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3779",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3780",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3781",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3782",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3783",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3784",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3785",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3786",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3787",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3788",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3789",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3790",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3791",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3792",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3793",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3794",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3795",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3796",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3797",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3798",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3799",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3800",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3801",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3802",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3803",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3804",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3805",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3806",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3807",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3808",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3809",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3810",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3811",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3812",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3813",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3814",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3815",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3816",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3817",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3818",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3819",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3820",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3821",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3822",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3823",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3824",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3825",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3826",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3827",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3828",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3829",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3830",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3831",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3832",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3833",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3834",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3835",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3836",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3837",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "3838",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "7011",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "7012",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "7032",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "7033",
+    "icon_category_id": "hotels"
+  },
+  {
+    "mcc_code": "4457",
+    "icon_category_id": "entertainment"
+  },
+  {
+    "mcc_code": "5832",
+    "icon_category_id": "entertainment"
+  },
+  {
+    "mcc_code": "5932",
+    "icon_category_id": "entertainment"
+  },
+  {
+    "mcc_code": "5937",
+    "icon_category_id": "entertainment"
+  },
+  {
+    "mcc_code": "5947",
+    "icon_category_id": "entertainment"
+  },
+  {
+    "mcc_code": "5970",
+    "icon_category_id": "entertainment"
+  },
+  {
+    "mcc_code": "5971",
+    "icon_category_id": "entertainment"
+  },
+  {
+    "mcc_code": "5972",
+    "icon_category_id": "entertainment"
+  },
+  {
+    "mcc_code": "5973",
+    "icon_category_id": "entertainment"
+  },
+  {
+    "mcc_code": "7221",
+    "icon_category_id": "entertainment"
+  },
+  {
+    "mcc_code": "7829",
+    "icon_category_id": "entertainment"
+  },
+  {
+    "mcc_code": "7832",
+    "icon_category_id": "entertainment"
+  },
+  {
+    "mcc_code": "7833",
+    "icon_category_id": "entertainment"
+  },
+  {
+    "mcc_code": "7841",
+    "icon_category_id": "entertainment"
+  },
+  {
+    "mcc_code": "7922",
+    "icon_category_id": "entertainment"
+  },
+  {
+    "mcc_code": "7929",
+    "icon_category_id": "entertainment"
+  },
+  {
+    "mcc_code": "7932",
+    "icon_category_id": "entertainment"
+  },
+  {
+    "mcc_code": "7933",
+    "icon_category_id": "entertainment"
+  },
+  {
+    "mcc_code": "7991",
+    "icon_category_id": "entertainment"
+  },
+  {
+    "mcc_code": "7993",
+    "icon_category_id": "entertainment"
+  },
+  {
+    "mcc_code": "7994",
+    "icon_category_id": "entertainment"
+  },
+  {
+    "mcc_code": "7996",
+    "icon_category_id": "entertainment"
+  },
+  {
+    "mcc_code": "7998",
+    "icon_category_id": "entertainment"
+  },
+  {
+    "mcc_code": "7999",
+    "icon_category_id": "entertainment"
+  },
+  {
+    "mcc_code": "8664",
+    "icon_category_id": "entertainment"
+  }
+]

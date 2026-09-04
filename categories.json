@@ -165,7 +165,7 @@
     "name": "Ж/д билеты",
     "description": "Оплата билетов на поезда и электрички в кассах, онлайн-сервисах и терминалах",
     "is_default": false,
-    "icon_category_id": "transit"
+    "icon_category_id": "train_tickets"
   },
   {
     "id": 22,
@@ -477,7 +477,7 @@
     "name": "Медицинские услуги",
     "description": "Оплата медицинских услуг, включая стоматологии, больницы, поликлиники, а также покупка медицинского оборудования и ортопедических товаров",
     "is_default": false,
-    "icon_category_id": "pharmacy"
+    "icon_category_id": "medical"
   },
   {
     "id": 61,
@@ -581,7 +581,7 @@
     "name": "ЖД билеты",
     "description": "",
     "is_default": false,
-    "icon_category_id": "transit"
+    "icon_category_id": "train_tickets"
   },
   {
     "id": 74,
@@ -701,7 +701,7 @@
     "name": "Медицинские клиники",
     "description": "",
     "is_default": false,
-    "icon_category_id": "pharmacy"
+    "icon_category_id": "medical"
   },
   {
     "id": 89,
@@ -917,7 +917,7 @@
     "name": "Здоровье",
     "description": "Кэшбэк за покупки в аптеках, профильных медицинских магазинах и медицинских учреждениях",
     "is_default": false,
-    "icon_category_id": "pharmacy"
+    "icon_category_id": "medical"
   },
   {
     "id": 116,
@@ -957,7 +957,7 @@
     "name": "Медицинские услуги",
     "description": "Кэшбэк за оплату услуг больниц, поликлиник, стоматологий, клиник лазерной коррекции зрения и других медицинских учреждений",
     "is_default": false,
-    "icon_category_id": "pharmacy"
+    "icon_category_id": "medical"
   },
   {
     "id": 121,
@@ -1269,7 +1269,7 @@
     "name": "Ж/Д в Тревел",
     "description": "Кэшбэк за бронирование ж/д билетов в сервисе Альфа-Тревел",
     "is_default": false,
-    "icon_category_id": "transit"
+    "icon_category_id": "train_tickets"
   },
   {
     "id": 160,
@@ -1405,7 +1405,7 @@
     "name": "Медицинские услуги",
     "description": "Оплата услуг больниц, поликлиник, стоматологий и других медицинских учреждений",
     "is_default": false,
-    "icon_category_id": "pharmacy"
+    "icon_category_id": "medical"
   },
   {
     "id": 177,

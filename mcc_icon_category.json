@@ -148,14 +148,6 @@
     "icon_category_id": "utilities"
   },
   {
-    "mcc_code": "4119",
-    "icon_category_id": "pharmacy"
-  },
-  {
-    "mcc_code": "5047",
-    "icon_category_id": "pharmacy"
-  },
-  {
     "mcc_code": "5122",
     "icon_category_id": "pharmacy"
   },
@@ -172,60 +164,68 @@
     "icon_category_id": "pharmacy"
   },
   {
+    "mcc_code": "4119",
+    "icon_category_id": "medical"
+  },
+  {
+    "mcc_code": "5047",
+    "icon_category_id": "medical"
+  },
+  {
     "mcc_code": "5975",
-    "icon_category_id": "pharmacy"
+    "icon_category_id": "medical"
   },
   {
     "mcc_code": "5976",
-    "icon_category_id": "pharmacy"
+    "icon_category_id": "medical"
   },
   {
     "mcc_code": "8011",
-    "icon_category_id": "pharmacy"
+    "icon_category_id": "medical"
   },
   {
     "mcc_code": "8021",
-    "icon_category_id": "pharmacy"
+    "icon_category_id": "medical"
   },
   {
     "mcc_code": "8031",
-    "icon_category_id": "pharmacy"
+    "icon_category_id": "medical"
   },
   {
     "mcc_code": "8041",
-    "icon_category_id": "pharmacy"
+    "icon_category_id": "medical"
   },
   {
     "mcc_code": "8042",
-    "icon_category_id": "pharmacy"
+    "icon_category_id": "medical"
   },
   {
     "mcc_code": "8043",
-    "icon_category_id": "pharmacy"
+    "icon_category_id": "medical"
   },
   {
     "mcc_code": "8044",
-    "icon_category_id": "pharmacy"
+    "icon_category_id": "medical"
   },
   {
     "mcc_code": "8049",
-    "icon_category_id": "pharmacy"
+    "icon_category_id": "medical"
   },
   {
     "mcc_code": "8050",
-    "icon_category_id": "pharmacy"
+    "icon_category_id": "medical"
   },
   {
     "mcc_code": "8062",
-    "icon_category_id": "pharmacy"
+    "icon_category_id": "medical"
   },
   {
     "mcc_code": "8071",
-    "icon_category_id": "pharmacy"
+    "icon_category_id": "medical"
   },
   {
     "mcc_code": "8099",
-    "icon_category_id": "pharmacy"
+    "icon_category_id": "medical"
   },
   {
     "mcc_code": "5311",
@@ -1080,10 +1080,6 @@
     "icon_category_id": "carshare"
   },
   {
-    "mcc_code": "4111",
-    "icon_category_id": "taxi"
-  },
-  {
     "mcc_code": "4121",
     "icon_category_id": "taxi"
   },
@@ -1188,16 +1184,20 @@
     "icon_category_id": "auto"
   },
   {
-    "mcc_code": "4011",
-    "icon_category_id": "transit"
-  },
-  {
-    "mcc_code": "4112",
+    "mcc_code": "4111",
     "icon_category_id": "transit"
   },
   {
     "mcc_code": "4729",
     "icon_category_id": "transit"
+  },
+  {
+    "mcc_code": "4011",
+    "icon_category_id": "train_tickets"
+  },
+  {
+    "mcc_code": "4112",
+    "icon_category_id": "train_tickets"
   },
   {
     "mcc_code": "3000",

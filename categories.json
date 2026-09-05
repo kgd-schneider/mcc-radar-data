@@ -1526,5 +1526,13 @@
     "description": "Базовый кэшбек 1% на все покупки, кроме покупок в выбранных категориях",
     "is_default": true,
     "icon_category_id": "default"
+  },
+  {
+    "id": 192,
+    "bank_id": 6,
+    "name": "На все покупки",
+    "description": "Базовый кэшбек 1.5% на все покупки, кроме покупок с MCC-кодом исключения",
+    "is_default": true,
+    "icon_category_id": "default"
   }
 ]

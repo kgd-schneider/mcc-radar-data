@@ -1973,7 +1973,7 @@
     "id": 395,
     "bank_id": 6,
     "mcc_code": "3990",
-    "comment": "Не начисляется только для: YANDEX*7311*DIRECT, YANDEX*6513*ARENDA"
+    "comment": "Не начисляется для: YANDEX*7311*DIRECT, YANDEX*6513*ARENDA"
   },
   {
     "id": 396,
@@ -2134,7 +2134,7 @@
     "id": 427,
     "bank_id": 6,
     "mcc_code": "7278",
-    "comment": "Не начисляется только для: money.mail.ru"
+    "comment": "Не начисляется для: money.mail.ru"
   },
   {
     "id": 428,
@@ -2180,7 +2180,7 @@
     "id": 436,
     "bank_id": 6,
     "mcc_code": "7994",
-    "comment": "Не начисляется только для: EXT*playls.net"
+    "comment": "Не начисляется для: EXT*playls.net"
   },
   {
     "id": 437,
@@ -2191,7 +2191,7 @@
     "id": 438,
     "bank_id": 6,
     "mcc_code": "8398",
-    "comment": "Не начисляется только для: Wallet One*W1"
+    "comment": "Не начисляется для: Wallet One*W1"
   },
   {
     "id": 439,
@@ -2202,7 +2202,7 @@
     "id": 440,
     "bank_id": 6,
     "mcc_code": "8999",
-    "comment": "Не начисляется только для: QIWI, STOLOTO, HANDYBANK, PAYMENT STORE, PAYQR.RU, AKTIA WALLET 2, Wallet One*STOLOTO, MINIWALLET.PRO, PAYU*PAYQR"
+    "comment": "Не начисляется для: QIWI, STOLOTO, HANDYBANK, PAYMENT STORE, PAYQR.RU, AKTIA WALLET 2, Wallet One*STOLOTO, MINIWALLET.PRO, PAYU*PAYQR"
   },
   {
     "id": 441,

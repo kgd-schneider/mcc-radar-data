@@ -1,6 +1,6 @@
 [
   {
-    "icon_category_id": "jewelry",
+    "id": "jewelry",
     "name": "Ювелирные изделия",
     "bank_categories": [
       {
@@ -27,7 +27,7 @@
     ]
   },
   {
-    "icon_category_id": "flowers",
+    "id": "flowers",
     "name": "Цветы",
     "bank_categories": [
       {
@@ -57,7 +57,7 @@
     ]
   },
   {
-    "icon_category_id": "pets",
+    "id": "pets",
     "name": "Домашние животные",
     "bank_categories": [
       {
@@ -87,7 +87,7 @@
     ]
   },
   {
-    "icon_category_id": "kids",
+    "id": "kids",
     "name": "Детские товары",
     "bank_categories": [
       {
@@ -121,7 +121,7 @@
     ]
   },
   {
-    "icon_category_id": "music",
+    "id": "music",
     "name": "Музыкальные инструменты",
     "bank_categories": [
       {
@@ -139,7 +139,7 @@
     ]
   },
   {
-    "icon_category_id": "dutyfree",
+    "id": "dutyfree",
     "name": "Дьюти-фри",
     "bank_categories": [
       {
@@ -156,7 +156,7 @@
     ]
   },
   {
-    "icon_category_id": "photo",
+    "id": "photo",
     "name": "Фото/видео",
     "bank_categories": [
       {
@@ -180,7 +180,7 @@
     ]
   },
   {
-    "icon_category_id": "drycleaning",
+    "id": "drycleaning",
     "name": "Химчистка",
     "bank_categories": [
       {
@@ -193,7 +193,7 @@
     ]
   },
   {
-    "icon_category_id": "gov_services",
+    "id": "gov_services",
     "name": "Государственные услуги",
     "bank_categories": [
       {
@@ -214,7 +214,7 @@
     ]
   },
   {
-    "icon_category_id": "digital",
+    "id": "digital",
     "name": "Цифровые товары / подписки",
     "bank_categories": [
       {
@@ -240,7 +240,7 @@
     ]
   },
   {
-    "icon_category_id": "utilities",
+    "id": "utilities",
     "name": "Связь, интернет, ТВ и ЖКХ",
     "bank_categories": [
       {
@@ -281,7 +281,7 @@
     ]
   },
   {
-    "icon_category_id": "pharmacy",
+    "id": "pharmacy",
     "name": "Аптеки",
     "bank_categories": [
       {
@@ -313,7 +313,7 @@
     ]
   },
   {
-    "icon_category_id": "medical",
+    "id": "medical",
     "name": "Медицинские услуги",
     "bank_categories": [
       {
@@ -357,7 +357,7 @@
     ]
   },
   {
-    "icon_category_id": "beauty",
+    "id": "beauty",
     "name": "Красота и SPA",
     "bank_categories": [
       {
@@ -411,7 +411,7 @@
     ]
   },
   {
-    "icon_category_id": "sport",
+    "id": "sport",
     "name": "Спорттовары и фитнес",
     "bank_categories": [
       {
@@ -462,7 +462,7 @@
     ]
   },
   {
-    "icon_category_id": "clothing",
+    "id": "clothing",
     "name": "Одежда и обувь",
     "bank_categories": [
       {
@@ -513,7 +513,7 @@
     ]
   },
   {
-    "icon_category_id": "home",
+    "id": "home",
     "name": "Дом и ремонт",
     "bank_categories": [
       {
@@ -585,7 +585,7 @@
     ]
   },
   {
-    "icon_category_id": "electronics",
+    "id": "electronics",
     "name": "Электроника и техника",
     "bank_categories": [
       {
@@ -618,7 +618,7 @@
     ]
   },
   {
-    "icon_category_id": "books",
+    "id": "books",
     "name": "Книги, канцтовары и образование",
     "bank_categories": [
       {
@@ -685,7 +685,7 @@
     ]
   },
   {
-    "icon_category_id": "marketplaces",
+    "id": "marketplaces",
     "name": "Маркетплейсы",
     "bank_categories": [
       {
@@ -709,7 +709,7 @@
     ]
   },
   {
-    "icon_category_id": "groceries",
+    "id": "groceries",
     "name": "Супермаркеты и продукты",
     "bank_categories": [
       {
@@ -782,7 +782,7 @@
     ]
   },
   {
-    "icon_category_id": "restaurants",
+    "id": "restaurants",
     "name": "Рестораны и кафе",
     "bank_categories": [
       {
@@ -829,7 +829,7 @@
     ]
   },
   {
-    "icon_category_id": "fastfood",
+    "id": "fastfood",
     "name": "Фастфуд",
     "bank_categories": [
       {
@@ -858,7 +858,7 @@
     ]
   },
   {
-    "icon_category_id": "fuel",
+    "id": "fuel",
     "name": "АЗС / Топливо",
     "bank_categories": [
       {
@@ -896,7 +896,7 @@
     ]
   },
   {
-    "icon_category_id": "carshare",
+    "id": "carshare",
     "name": "Каршеринг и аренда авто",
     "bank_categories": [
       {
@@ -1022,7 +1022,7 @@
     ]
   },
   {
-    "icon_category_id": "taxi",
+    "id": "taxi",
     "name": "Такси",
     "bank_categories": [
       {
@@ -1057,7 +1057,7 @@
     ]
   },
   {
-    "icon_category_id": "auto",
+    "id": "auto",
     "name": "Авто и автосервис",
     "bank_categories": [
       {
@@ -1128,7 +1128,7 @@
     ]
   },
   {
-    "icon_category_id": "transit",
+    "id": "transit",
     "name": "Общественный транспорт",
     "bank_categories": [
       {
@@ -1162,7 +1162,7 @@
     ]
   },
   {
-    "icon_category_id": "train_tickets",
+    "id": "train_tickets",
     "name": "Ж/Д билеты",
     "bank_categories": [
       {
@@ -1184,7 +1184,7 @@
     ]
   },
   {
-    "icon_category_id": "flights",
+    "id": "flights",
     "name": "Авиабилеты",
     "bank_categories": [
       {
@@ -1519,7 +1519,7 @@
     ]
   },
   {
-    "icon_category_id": "hotels",
+    "id": "hotels",
     "name": "Отели и путешествия",
     "bank_categories": [
       {
@@ -1885,7 +1885,7 @@
     ]
   },
   {
-    "icon_category_id": "entertainment",
+    "id": "entertainment",
     "name": "Развлечения и досуг",
     "bank_categories": [
       {
@@ -1978,7 +1978,7 @@
     ]
   },
   {
-    "icon_category_id": "default",
+    "id": "default",
     "name": "Прочее",
     "bank_categories": [
       {

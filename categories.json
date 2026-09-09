@@ -1534,5 +1534,93 @@
     "description": "Базовый кэшбек 1.5% на все покупки, кроме покупок с MCC-кодом исключения",
     "is_default": true,
     "icon_category_id": "default"
+  },
+  {
+    "id": 193,
+    "bank_id": 2,
+    "name": "ЖКХ в Сбербанк Онлайн",
+    "description": "Оплата услуг ЖКХ в Сбербанк Онлайн",
+    "is_default": false,
+    "icon_category_id": "utilities"
+  },
+  {
+    "id": 194,
+    "bank_id": 2,
+    "name": "Транспортные карты",
+    "description": "Бонусные операции, совершенные в Системе «Сбербанк Онлайн»",
+    "is_default": false,
+    "icon_category_id": "transit"
+  },
+  {
+    "id": 195,
+    "bank_id": 2,
+    "name": "Маркетплейс ОСАГО",
+    "description": "Бонусные операции, совершенные в Системе «Сбербанк Онлайн» или в офисах Банка с использованием Мобильного рабочего места работника Банка",
+    "is_default": false,
+    "icon_category_id": "gov_services"
+  },
+  {
+    "id": 196,
+    "bank_id": 2,
+    "name": "СпасибоТревел",
+    "description": "Покупки, совершенные на Сайте Программы в Разделе «Тревел»",
+    "is_default": false,
+    "icon_category_id": "hotels"
+  },
+  {
+    "id": 197,
+    "bank_id": 2,
+    "name": "Авиа на СпасибоТревел",
+    "description": "Покупки, совершенные на Сайте Программы в разделе Авиа Раздела «Тревел»",
+    "is_default": false,
+    "icon_category_id": "flights"
+  },
+  {
+    "id": 198,
+    "bank_id": 2,
+    "name": "ЖД на СпасибоТревел",
+    "description": "Покупки, совершенные на Сайте Программы в разделе ЖД Раздела «Тревел»",
+    "is_default": false,
+    "icon_category_id": "train_tickets"
+  },
+  {
+    "id": 199,
+    "bank_id": 2,
+    "name": "Отели на СпасибоТревел",
+    "description": "Покупки, совершенные на Сайте Программы в разделе Отели Раздела «Тревел»",
+    "is_default": false,
+    "icon_category_id": "hotels"
+  },
+  {
+    "id": 200,
+    "bank_id": 2,
+    "name": "Туры на СпасибоТревел",
+    "description": "Покупки, совершенные на Сайте Программы в разделе Туры Раздела «Тревел»",
+    "is_default": false,
+    "icon_category_id": "hotels"
+  },
+  {
+    "id": 201,
+    "bank_id": 2,
+    "name": "На все за оплату улыбкой",
+    "description": "Покупки, совершенные по SberPay с использованием биометрического метода аутентификации",
+    "is_default": true,
+    "icon_category_id": "default"
+  },
+  {
+    "id": 202,
+    "bank_id": 2,
+    "name": "На всё по SberPay NFC",
+    "description": "Покупки, совершенные по SberPay с использованием NFC – Карты Банка",
+    "is_default": true,
+    "icon_category_id": "default"
+  },
+  {
+    "id": 203,
+    "bank_id": 2,
+    "name": "На всё за оплату Вжух",
+    "description": "Покупки, совершенные с использованием Bluetooth",
+    "is_default": true,
+    "icon_category_id": "default"
   }
 ]
